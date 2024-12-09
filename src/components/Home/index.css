@@ -1,0 +1,19 @@
+.homeRoute {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home {
+  box-shadow: 2px 2px 10px 10px #dcdcdc;
+  height: 200px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.homeIcon {
+  height: 500px;
+  width: 700px;
+}

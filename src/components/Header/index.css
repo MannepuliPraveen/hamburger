@@ -1,0 +1,25 @@
+.headerRoute {
+  display: flex;
+  justify-content: space-between;
+  align-items: Center;
+}
+.websiteLogo {
+  height: 55px;
+  width: 55px;
+}
+.hamburger {
+  height: 50px;
+  width: 50px;
+}
+.btn {
+  border: none;
+  background-color: transparent;
+}
+.popup-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff;
+  width: 100vw;
+  height: 100vh;
+}
